@@ -79,6 +79,14 @@ var extra_types = sl_codes.js_extra_types
 - NPM [@sl-code-lords/js-extra-types](https://www.npmjs.com/package/@sl-code-lords/js-extra-types)
 - GITHUB [Js-Extra-Types](https://github.com/SL-CODE-LORDS/Js-Extra-Types.git)
 
+## Web ScreenShot
+```ts
+var web_screenshot = sl_codes.web_screenshot
+```
+- By [Ravindu Manoj](https://github.com/ravindu01manoj)
+- NPM [@sl-code-lords/web_screenshot](https://www.npmjs.com/package/@sl-code-lords/web_screenshot)
+- GITHUB [Web-Screenshot](https://github.com/SL-CODE-LORDS/Web-Screenshot.git)
+
 
 ## ✍️ Authors <a name = "authors"></a>
 
