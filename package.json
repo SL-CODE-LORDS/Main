@@ -1,0 +1,29 @@
+{
+  "name": "@sl-code-lords/main",
+  "version": "0.0.01-dev",
+  "description": "Our All Packages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SL-CODE-LORDS/Main.git"
+  },
+  "keywords": [
+    "Sl",
+    "sl",
+    "code",
+    "lords"
+  ],
+  "author": "Ravindu Manoj",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SL-CODE-LORDS/Main/issues"
+  },
+  "homepage": "https://github.com/SL-CODE-LORDS/Main#readme",
+  "dependencies": {
+    "@sl-code-lords/esana-news": "*",
+    "@sl-code-lords/si-subdl": "*"
+  }
+}
