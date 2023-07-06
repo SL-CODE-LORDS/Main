@@ -71,6 +71,14 @@ var sub_dl = sl_codes.si_subdl
 - NPM [@sl-code-lords/si-subdl](https://www.npmjs.com/package/@sl-code-lords/si-subdl)
 - GITHUB [si-subdl](https://github.com/SL-CODE-LORDS/si-subdl)
 
+## JS Extra Types
+```ts
+var extra_types = sl_codes.js_extra_types
+```
+- By [Ravindu Manoj](https://github.com/ravindu01manoj)
+- NPM [@sl-code-lords/js-extra-types](https://www.npmjs.com/package/@sl-code-lords/js-extra-types)
+- GITHUB [Js-Extra-Types](https://github.com/SL-CODE-LORDS/Js-Extra-Types.git)
+
 
 ## ✍️ Authors <a name = "authors"></a>
 
