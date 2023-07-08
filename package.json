@@ -1,6 +1,6 @@
 {
   "name": "@sl-code-lords/main",
-  "version": "0.0.03-dev",
+  "version": "0.1.0",
   "description": "Our All Packages",
   "main": "index.js",
   "scripts": {
@@ -24,8 +24,9 @@
   "homepage": "https://github.com/SL-CODE-LORDS/Main#readme",
   "dependencies": {
     "@sl-code-lords/esana-news": "*",
-    "@sl-code-lords/js-extra-types": "*",
+    "@sl-code-lords/js-extra-types": "0.0.2-dev",
     "@sl-code-lords/si-subdl": "*",
-    "@sl-code-lords/web_screenshot": "*"
+    "@sl-code-lords/wabetainfo": "*",
+    "@sl-code-lords/web_screenshot": "0.0.1-dev"
   }
 }

@@ -87,6 +87,13 @@ var web_screenshot = sl_codes.web_screenshot
 - NPM [@sl-code-lords/web_screenshot](https://www.npmjs.com/package/@sl-code-lords/web_screenshot)
 - GITHUB [Web-Screenshot](https://github.com/SL-CODE-LORDS/Web-Screenshot.git)
 
+## Whatsapp Beta Info
+```ts
+var wabetainfo = sl_codes.wabetainfo
+```
+- By [BlackAmda](https://github.com/blackamda)
+- NPM [@sl-code-lords/wabetainfo](https://www.npmjs.com/package/@sl-code-lords/wabetainfo)
+- GITHUB [WABetaInfo](https://github.com/SL-CODE-LORDS/WABetaInfo.git)
 
 ## ✍️ Authors <a name = "authors"></a>
 
