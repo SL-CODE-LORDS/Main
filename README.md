@@ -95,6 +95,14 @@ var wabetainfo = sl_codes.wabetainfo
 - NPM [@sl-code-lords/wabetainfo](https://www.npmjs.com/package/@sl-code-lords/wabetainfo)
 - GITHUB [WABetaInfo](https://github.com/SL-CODE-LORDS/WABetaInfo.git)
 
+## Project Obfuscator
+```ts
+var project_obfuscator = sl_codes.project_obfuscator
+```
+- By [Ravindu Manoj](https://github.com/ravindu01manoj)
+- NPM [@sl-code-lords/project-obfuscator](https://www.npmjs.com/package/@sl-code-lords/project-obfuscator)
+- GITHUB [Project-Obfuscator](https://github.com/SL-CODE-LORDS/Project-Obfuscator.git)
+
 ## ✍️ Authors <a name = "authors"></a>
 
 - [@ravindu01manoj](https://github.com/ravindu01manoj)

@@ -1,6 +1,6 @@
 {
   "name": "@sl-code-lords/main",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Our All Packages",
   "main": "index.js",
   "scripts": {
@@ -25,6 +25,7 @@
   "dependencies": {
     "@sl-code-lords/esana-news": "*",
     "@sl-code-lords/js-extra-types": "0.0.2-dev",
+    "@sl-code-lords/project-obfuscator": "^1.0.0",
     "@sl-code-lords/si-subdl": "*",
     "@sl-code-lords/wabetainfo": "*",
     "@sl-code-lords/web_screenshot": "0.0.1-dev"
