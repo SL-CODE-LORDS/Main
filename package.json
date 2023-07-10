@@ -1,6 +1,6 @@
 {
   "name": "@sl-code-lords/main",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Our All Packages",
   "main": "index.js",
   "scripts": {
@@ -23,6 +23,7 @@
   },
   "homepage": "https://github.com/SL-CODE-LORDS/Main#readme",
   "dependencies": {
+    "@sl-code-lords/calendar": "^1.0.0",
     "@sl-code-lords/esana-news": "*",
     "@sl-code-lords/js-extra-types": "0.0.2-dev",
     "@sl-code-lords/project-obfuscator": "^1.0.0",

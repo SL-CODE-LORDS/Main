@@ -103,6 +103,14 @@ var project_obfuscator = sl_codes.project_obfuscator
 - NPM [@sl-code-lords/project-obfuscator](https://www.npmjs.com/package/@sl-code-lords/project-obfuscator)
 - GITHUB [Project-Obfuscator](https://github.com/SL-CODE-LORDS/Project-Obfuscator.git)
 
+## Calendar
+```ts
+var calendar = sl_codes.calendar
+```
+- By [Ravindu Manoj](https://github.com/ravindu01manoj)
+- NPM [@sl-code-lords/calendar](https://www.npmjs.com/package/@sl-code-lords/calendar)
+- GITHUB [Calendar](https://github.com/SL-CODE-LORDS/Calendar.git)
+
 ## ✍️ Authors <a name = "authors"></a>
 
 - [@ravindu01manoj](https://github.com/ravindu01manoj)
@@ -110,4 +118,4 @@ var project_obfuscator = sl_codes.project_obfuscator
 - [@sanuwaofficial](https://github.com/sanuwaofficial)
 - [@sisula](https://github.com/sisula)
 
-See also the list of [contributors](https://github.com/SL-CODE-LORDS/Esana-News/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/SL-CODE-LORDS/Main/contributors) who participated in this project.
