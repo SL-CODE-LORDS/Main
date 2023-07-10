@@ -111,6 +111,15 @@ var calendar = sl_codes.calendar
 - NPM [@sl-code-lords/calendar](https://www.npmjs.com/package/@sl-code-lords/calendar)
 - GITHUB [Calendar](https://github.com/SL-CODE-LORDS/Calendar.git)
 
+## Holidays
+```ts
+var holidays = sl_codes.holidays
+```
+- By [Ravindu Manoj](https://github.com/ravindu01manoj)
+- NPM [@sl-code-lords/holidays](https://www.npmjs.com/package/@sl-code-lords/holidays)
+- GITHUB [Holidays](https://github.com/SL-CODE-LORDS/Holidays.git)
+
+
 ## ✍️ Authors <a name = "authors"></a>
 
 - [@ravindu01manoj](https://github.com/ravindu01manoj)
