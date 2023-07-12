@@ -119,6 +119,13 @@ var holidays = sl_codes.holidays
 - NPM [@sl-code-lords/holidays](https://www.npmjs.com/package/@sl-code-lords/holidays)
 - GITHUB [Holidays](https://github.com/SL-CODE-LORDS/Holidays.git)
 
+## Youtube DL
+```ts
+var youtube_dl = sl_codes.youtube_dl
+```
+- By [Thisal Sanjaya](https://github.com/ravindu01manoj)
+- NPM [@sl-code-lords/youtube-dl](https://www.npmjs.com/package/@sl-code-lords/youtube-dl)
+- GITHUB [youtube-dl](https://github.com/SL-CODE-LORDS/youtube-dl)
 
 ## ✍️ Authors <a name = "authors"></a>
 

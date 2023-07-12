@@ -1,6 +1,6 @@
 {
   "name": "@sl-code-lords/main",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "description": "Our All Packages",
   "main": "index.js",
   "scripts": {
@@ -30,6 +30,7 @@
     "@sl-code-lords/project-obfuscator": "^1.0.0",
     "@sl-code-lords/si-subdl": "*",
     "@sl-code-lords/wabetainfo": "*",
-    "@sl-code-lords/web_screenshot": "0.0.1-dev"
+    "@sl-code-lords/web_screenshot": "0.0.1-dev",
+    "@sl-code-lords/youtube-dl": "^1.0.1"
   }
 }
