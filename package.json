@@ -1,6 +1,6 @@
 {
   "name": "@sl-code-lords/main",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "description": "Our All Packages",
   "main": "index.js",
   "scripts": {
@@ -31,6 +31,6 @@
     "@sl-code-lords/si-subdl": "*",
     "@sl-code-lords/wabetainfo": "*",
     "@sl-code-lords/web_screenshot": "0.0.1-dev",
-    "@sl-code-lords/youtube-dl": "^1.0.1"
+    "@sl-code-lords/youtube-dl": "^1.0.4"
   }
 }
