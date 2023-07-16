@@ -67,7 +67,7 @@ var esana = sl_codes.esana_news
 ```ts
 var sub_dl = sl_codes.si_subdl
 ```
-- By [Thisal Sanjaya](https://github.com/ravindu01manoj)
+- By [Thisal Sanujaya](https://github.com/sanuwaofficial)
 - NPM [@sl-code-lords/si-subdl](https://www.npmjs.com/package/@sl-code-lords/si-subdl)
 - GITHUB [si-subdl](https://github.com/SL-CODE-LORDS/si-subdl)
 
@@ -123,7 +123,7 @@ var holidays = sl_codes.holidays
 ```ts
 var youtube_dl = sl_codes.youtube_dl
 ```
-- By [Thisal Sanjaya](https://github.com/ravindu01manoj)
+- By [Thisal Sanujaya](https://github.com/sanuwaofficial)
 - NPM [@sl-code-lords/youtube-dl](https://www.npmjs.com/package/@sl-code-lords/youtube-dl)
 - GITHUB [youtube-dl](https://github.com/SL-CODE-LORDS/youtube-dl)
 
