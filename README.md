@@ -55,31 +55,32 @@ npm i @sl-code-lords/main
 const sl_codes = require('@sl-code-lords/main')
 
 ```
-## Esana
+
+## Esana News
 ```ts
-var esana = sl_codes.esana_news
+var esana_news = sl_codes.esana_news
 ```
 - By [Ravindu Manoj](https://github.com/ravindu01manoj)
 - NPM [@sl-code-lords/esana-news](https://www.npmjs.com/package/@sl-code-lords/esana-news)
 - GITHUB [Esana-News](https://github.com/SL-CODE-LORDS/Esana-News.git)
 
-## SI-SubDl
+## si subdl
 ```ts
-var sub_dl = sl_codes.si_subdl
+var si_subdl = sl_codes.si_subdl
 ```
 - By [Thisal Sanujaya](https://github.com/sanuwaofficial)
 - NPM [@sl-code-lords/si-subdl](https://www.npmjs.com/package/@sl-code-lords/si-subdl)
-- GITHUB [si-subdl](https://github.com/SL-CODE-LORDS/si-subdl)
+- GITHUB [si-subdl](https://github.com/SL-CODE-LORDS/si-subdl.git)
 
-## JS Extra Types
+## Js Extra Types
 ```ts
-var extra_types = sl_codes.js_extra_types
+var js_extra_types = sl_codes.js_extra_types
 ```
 - By [Ravindu Manoj](https://github.com/ravindu01manoj)
 - NPM [@sl-code-lords/js-extra-types](https://www.npmjs.com/package/@sl-code-lords/js-extra-types)
 - GITHUB [Js-Extra-Types](https://github.com/SL-CODE-LORDS/Js-Extra-Types.git)
 
-## Web ScreenShot
+## Web Screenshot
 ```ts
 var web_screenshot = sl_codes.web_screenshot
 ```
@@ -119,13 +120,22 @@ var holidays = sl_codes.holidays
 - NPM [@sl-code-lords/holidays](https://www.npmjs.com/package/@sl-code-lords/holidays)
 - GITHUB [Holidays](https://github.com/SL-CODE-LORDS/Holidays.git)
 
-## Youtube DL
+## youtube dl
 ```ts
 var youtube_dl = sl_codes.youtube_dl
 ```
 - By [Thisal Sanujaya](https://github.com/sanuwaofficial)
 - NPM [@sl-code-lords/youtube-dl](https://www.npmjs.com/package/@sl-code-lords/youtube-dl)
-- GITHUB [youtube-dl](https://github.com/SL-CODE-LORDS/youtube-dl)
+- GITHUB [youtube-dl](https://github.com/SL-CODE-LORDS/youtube-dl.git)
+
+## Github Db
+```ts
+var github_db = sl_codes.github_db
+```
+- By [Ravindu Manoj](https://github.com/ravindu01manoj)
+- NPM [@sl-code-lords/github-db](https://www.npmjs.com/package/@sl-code-lords/github-db)
+- GITHUB [Github-Db](https://github.com/SL-CODE-LORDS/Github-Db.git)
+
 
 ## ✍️ Authors <a name = "authors"></a>
 
