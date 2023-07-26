@@ -136,6 +136,14 @@ var github_db = sl_codes.github_db
 - NPM [@sl-code-lords/github-db](https://www.npmjs.com/package/@sl-code-lords/github-db)
 - GITHUB [Github-Db](https://github.com/SL-CODE-LORDS/Github-Db.git)
 
+## movie dl
+```ts
+var movie_dl = sl_codes.movie_dl
+```
+- By [Thisal Sanujaya](https://github.com/sanuwaofficial)
+- NPM [@sl-code-lords/movie-dl](https://www.npmjs.com/package/@sl-code-lords/movie-dl)
+- GITHUB [movie-dl](https://github.com/SL-CODE-LORDS/movie-dl.git)
+
 
 ## ✍️ Authors <a name = "authors"></a>
 

@@ -9,5 +9,6 @@ module.exports = [
     [a,'Calendar'],
     [a,'Holidays'],
     [c,'youtube-dl'],
-    [a,'Github-Db']
+    [a,'Github-Db'],
+    [c,'movie-dl']
 ]

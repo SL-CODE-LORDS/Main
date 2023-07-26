@@ -1,6 +1,6 @@
 {
   "name": "@sl-code-lords/main",
-  "version": "0.1.6",
+  "version": "0.1.8",
   "description": "Our All Packages",
   "main": "index.js",
   "scripts": {
@@ -24,10 +24,11 @@
   "homepage": "https://github.com/SL-CODE-LORDS/Main#readme",
   "dependencies": {
     "@sl-code-lords/calendar": "^1.0.0",
-    "@sl-code-lords/esana-news": "*",
-    "@sl-code-lords/github-db": "^1.0.0",
+    "@sl-code-lords/esana-news": "1.1.0",
+    "@sl-code-lords/github-db": "1.1.0",
     "@sl-code-lords/holidays": "^1.0.0",
     "@sl-code-lords/js-extra-types": "0.0.2-dev",
+    "@sl-code-lords/movie-dl": "^1.0.1",
     "@sl-code-lords/project-obfuscator": "^1.0.0",
     "@sl-code-lords/si-subdl": "*",
     "@sl-code-lords/wabetainfo": "*",

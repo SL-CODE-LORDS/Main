@@ -8,3 +8,4 @@ module.exports.calendar = require('@sl-code-lords/calendar');
 module.exports.holidays = require('@sl-code-lords/holidays');
 module.exports.youtube_dl = require('@sl-code-lords/youtube-dl');
 module.exports.github_db = require('@sl-code-lords/github-db');
+module.exports.movie_dl = require('@sl-code-lords/movie-dl');
