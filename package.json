@@ -1,6 +1,6 @@
 {
   "name": "@sl-code-lords/main",
-  "version": "0.1.8",
+  "version": "0.2.0",
   "description": "Our All Packages",
   "main": "index.js",
   "scripts": {
@@ -27,10 +27,13 @@
     "@sl-code-lords/esana-news": "1.1.0",
     "@sl-code-lords/github-db": "1.1.0",
     "@sl-code-lords/holidays": "^1.0.0",
+    "@sl-code-lords/image-library": "^1.0.0",
     "@sl-code-lords/js-extra-types": "0.0.2-dev",
     "@sl-code-lords/movie-dl": "^1.0.1",
+    "@sl-code-lords/photooxy": "1.0.0",
     "@sl-code-lords/project-obfuscator": "^1.0.0",
     "@sl-code-lords/si-subdl": "*",
+    "@sl-code-lords/text-pro-me": "1.0.0",
     "@sl-code-lords/wabetainfo": "*",
     "@sl-code-lords/web_screenshot": "0.0.1-dev",
     "@sl-code-lords/youtube-dl": "^1.0.4"

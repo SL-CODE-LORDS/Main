@@ -10,5 +10,8 @@ module.exports = [
     [a,'Holidays'],
     [c,'youtube-dl'],
     [a,'Github-Db'],
-    [c,'movie-dl']
+    [c,'movie-dl'],
+    [d,'image-library'],
+    [a,'Text-Pro-Me'],
+    [a,'Photooxy']
 ]

@@ -144,6 +144,30 @@ var movie_dl = sl_codes.movie_dl
 - NPM [@sl-code-lords/movie-dl](https://www.npmjs.com/package/@sl-code-lords/movie-dl)
 - GITHUB [movie-dl](https://github.com/SL-CODE-LORDS/movie-dl.git)
 
+## image library
+```ts
+var image_library = sl_codes.image_library
+```
+- By [Sisula Welgamage](https://github.com/sisula)
+- NPM [@sl-code-lords/image-library](https://www.npmjs.com/package/@sl-code-lords/image-library)
+- GITHUB [image-library](https://github.com/SL-CODE-LORDS/image-library.git)
+
+## Text Pro Me
+```ts
+var text_pro_me = sl_codes.text_pro_me
+```
+- By [Ravindu Manoj](https://github.com/ravindu01manoj)
+- NPM [@sl-code-lords/text-pro-me](https://www.npmjs.com/package/@sl-code-lords/text-pro-me)
+- GITHUB [Text-Pro-Me](https://github.com/SL-CODE-LORDS/Text-Pro-Me.git)
+
+## Photooxy
+```ts
+var photooxy = sl_codes.photooxy
+```
+- By [Ravindu Manoj](https://github.com/ravindu01manoj)
+- NPM [@sl-code-lords/photooxy](https://www.npmjs.com/package/@sl-code-lords/photooxy)
+- GITHUB [Photooxy](https://github.com/SL-CODE-LORDS/Photooxy.git)
+
 
 ## ✍️ Authors <a name = "authors"></a>
 

@@ -9,3 +9,6 @@ module.exports.holidays = require('@sl-code-lords/holidays');
 module.exports.youtube_dl = require('@sl-code-lords/youtube-dl');
 module.exports.github_db = require('@sl-code-lords/github-db');
 module.exports.movie_dl = require('@sl-code-lords/movie-dl');
+module.exports.image_library = require('@sl-code-lords/image-library');
+module.exports.text_pro_me = require('@sl-code-lords/text-pro-me');
+module.exports.photooxy = require('@sl-code-lords/photooxy');
